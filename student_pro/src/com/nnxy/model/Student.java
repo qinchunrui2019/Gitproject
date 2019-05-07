@@ -6,7 +6,7 @@ public class Student {
 	private String username;
 	private String password;
 	private int age;
-	private int sex;
+	private int sex;//性别
 	
 	public Student(int id,String username,String password, int age, int sex) {
 		super();
